@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Brecha de Género en el espacio</title>
+   
+    <link rel="stylesheet" href="https://www.fontspace.com/get/family/4y7yn" type="text/css" />
+    <link rel="stylesheet" href="style.css">
+    
+    <style>
+      #chart{
+        overflow-y:auto;
+      }
+      #chart svg{
+        max-width: initial;
+      }
+    </style>
+  </head>
+  <body>
+  
+    <h1> El espacio: ¿una brecha de género interplanetaria?</h1>
+    <h3> La conquista espacial sigue siendo un terreno desigual. A pesar de los avances en igualdad de género en otros campos, el espacio sigue siendo un ámbito dominado por hombres. ¿Por qué hay tan pocas mujeres astronautas?</h3>
+
+    <div id="chart"></div>
+    <div id="tooltip"></div>
+    <div style = "clear: both">
+      
+      <h6 style="float:left"> Source: NASA, Roscosmos, etc. </h6>
+      <h6 style="float:right"> Autores: Micaela Oliva y Carolina Olivera </h6>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.contentWindow.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
