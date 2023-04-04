@@ -9,7 +9,7 @@ Integrantes: Micaela Oliva y Carolina Olivera
 <tr>
 <td>
   Brindar un panorama general de técnicas de visualización y familiarizarse con la librería de visualización Plot.js.
-  En primera instancia, se trabajará cocn un conjunto de datos tabulares y se visualizarán cocn diferentes marcas y canales para que, en una segunda etapa, se apliquen principios de diseño de forma, color y tipografía según la idea que se quiera comunicar.
+  En primera instancia, se trabajará con un conjunto de datos tabulares y se visualizarán cocn diferentes marcas y canales para que, en una segunda etapa, se apliquen principios de diseño de forma, color y tipografía según la idea que se quiera comunicar.
 </td>
 </tr>
 </table>
