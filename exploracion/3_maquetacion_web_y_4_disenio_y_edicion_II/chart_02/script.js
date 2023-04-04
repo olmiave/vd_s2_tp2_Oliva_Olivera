@@ -1,27 +1,42 @@
-// Edades
+// edades
 d3.csv('astronautas.csv', d3.autoType).then(data => {
-  console.log(data)
+  console.log(data) //Abro la data
   let chart1 = Plot.plot({
     height: 105,
     width: 1110,
     marks: [
       Plot.barX(data, 
-        Plot.groupY(
-          {x1: 'min', x2: 'max'}, 
-          {x:"edad_mision", y:""}
-          ),
-          ),
-      Plot.barX(data, 
-        Plot.groupY(
-          {x1: 'min', x2: 'max'},
-          {fill: d => d.edad_mision <= 46.5 ? "#fc4445" : "#86b3d1",
-          x:"edad_mision",
-          y:""
-        })),
+        Plot.groupY({
+        x1: 'min', 
+        x2: 'max',
+      }, 
+      {
+        x:"edad_mision",
+        y:"",
+        //fill: "pink"
+      },
+     ),
+    ),
+    Plot.barX(data, 
+      Plot.groupY({
+      x1: 'min', 
+      x2: 'max',
+    }, 
+    {
+      fill: d => d.edad_mision <= 46.5 ? "#fc4445" : "#86b3d1",
+      x:"edad_mision",
+      y:"",
+      //text: d => `${d.edad_mision}`  
+    },
+   ),
+  ),
+  
+      //Plot.ruleX([0]),
     ],
     x:{
       label: 'Min, max',
       ticks:20,
+      //domain: [30, 63],
     },
     color: {
       legend:true,
@@ -32,13 +47,24 @@ d3.csv('astronautas.csv', d3.autoType).then(data => {
       fontSize : 12,
     }
   })
+
+   //d3.range(100).map((d) => Math.random() * 100 + 1),
+  // Agregamos chart al div#chart de index.html
   d3.select('#chart1').append(() => chart1)
 })
 
 
-// Nacionalidad
+
+
+
+
+
+
+
+
+// nacionalidad
 d3.csv("astronautas.csv", d3.autoType).then((data) => {
-  console.log(data);
+  console.log(data); //Abro la data
   let chart2 = Plot.plot({
     height: 50,
     width: 1100,
@@ -79,13 +105,27 @@ d3.csv("astronautas.csv", d3.autoType).then((data) => {
       fontSize : 12,
     }
   });
+
+  //d3.range(100).map((d) => Math.random() * 100 + 1),
+  // Agregamos chart al div#chart de index.html
   d3.select("#chart2").append(() => chart2);
 });
 
 
-// Genero
+
+
+
+
+
+
+
+
+
+
+
+//genero
 d3.csv("astronautas.csv", d3.autoType).then((data) => {
-  console.log(data);
+  console.log(data); //Abro la data
   let chart3 = Plot.plot({
     height: 50,
     width: 1100,
@@ -115,6 +155,7 @@ d3.csv("astronautas.csv", d3.autoType).then((data) => {
     ],
     axis:null,
     x: {
+
     },
     color: {
       legend: true,
@@ -125,13 +166,26 @@ d3.csv("astronautas.csv", d3.autoType).then((data) => {
       fontSize : 12,
     }
   });
+
+  //d3.range(100).map((d) => Math.random() * 100 + 1),
+  // Agregamos chart al div#chart de index.html
   d3.select("#chart3").append(() => chart3);
 });
 
 
-// Status
+
+
+
+
+
+
+
+
+
+
+// status
 d3.csv("astronautas.csv", d3.autoType).then((data) => {
-  console.log(data);
+  console.log(data); //Abro la data
   let chart4 = Plot.plot({
     height: 50,
     width: 1100,
@@ -161,6 +215,7 @@ d3.csv("astronautas.csv", d3.autoType).then((data) => {
     ],
     axis:null,
     x: {
+
     },
     color: {
       legend: true,
@@ -171,13 +226,28 @@ d3.csv("astronautas.csv", d3.autoType).then((data) => {
       fontSize : 12,
     }
   });
+
+  //d3.range(100).map((d) => Math.random() * 100 + 1),
+  // Agregamos chart al div#chart de index.html
   d3.select("#chart4").append(() => chart4);
 });
 
 
-// Ocupacion
+
+
+
+
+
+
+
+
+
+
+
+
+//ocupacion
 d3.csv("astronautas.csv", d3.autoType).then((data) => {
-  console.log(data); 
+  console.log(data); //Abro la data
   let chart5 = Plot.plot({
     height: 50,
     width: 1100,
@@ -207,6 +277,7 @@ d3.csv("astronautas.csv", d3.autoType).then((data) => {
     ],
     axis:null,
     x: {
+
     },
     color: {
       legend: true,
@@ -218,6 +289,8 @@ d3.csv("astronautas.csv", d3.autoType).then((data) => {
     }
   });
 
+  //d3.range(100).map((d) => Math.random() * 100 + 1),
+  // Agregamos chart al div#chart de index.html
   d3.select("#chart5").append(() => chart5);
 });
 

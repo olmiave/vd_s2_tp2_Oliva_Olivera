@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+@font-face{
+    font-family: NASA;
+    src: url('nasadings-1wzj-webfont.woff') format("woff");
+  }
+
+div{
+    font-family:NASA;
+  }
+  body {
+    background-color:rgb(255, 255, 255);
+    font-family: 'Space Grotesk';
+    padding: 10px;
+    margin: 2px;
+  }
+  h1 {
+    color:black;
+    text-align: left;
+    font-style: bold;
+    font-size: 50px;
+    line-height: 50%;
+  }
+  /* h2 {
+    font-family: NASA Dings;
+    color: rgb(26, 55, 109);
+  } */
+  h3 {
+    font-family: "Space Grotesk";
+    font-weight: 300;
+  }
+
+  h6{
+    font-family: "Space Grotesk";
+    text-align: right;
+  }

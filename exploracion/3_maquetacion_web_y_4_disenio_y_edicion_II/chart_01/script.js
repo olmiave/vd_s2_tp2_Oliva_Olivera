@@ -2,11 +2,11 @@ d3.csv("astronautas.csv", d3.autoType).then(data => {
   // Cuántas misiones espaciales hizo cada país
   console.log(data)
   let chart1 = Plot.plot({
-    width: 1050,
+    width: 1100,
     marks: [
       Plot.barX(data, 
         Plot.groupY(
-          {x: 'count'},
+          {x: 'count'}, //
           {y: 'nacionalidad', 
           sort: { y: "x", reverse: true}, 
           fill: 'ocupacion'},
@@ -14,7 +14,7 @@ d3.csv("astronautas.csv", d3.autoType).then(data => {
       ),
       Plot.text(data,         
         Plot.groupY(
-        {x: 'count', text:"count"},  
+        {x: 'count', text:"count"},  //
         {y: 'nacionalidad', dx:10},)),
     ],
     x: {
@@ -41,12 +41,12 @@ d3.csv("astronautas.csv", d3.autoType).then(data => {
   // 2 /////////////////////////////////////
   console.log(data)
   let chart2 = Plot.plot({
-    width: 1050,
+    width: 1100,
     marks: [
       Plot.barX(
         data.filter(d=>(d.nacionalidad=="U.S.S.R/Rusia" || d.nacionalidad=='EE.UU.' || d.nacionalidad=='China' || d.nacionalidad=='Japon' )&&d.ocupacion=='comandante'),
         Plot.groupY(
-          {x: 'count'}, 
+          {x: 'count'}, //
           {y: 'nacionalidad', 
           sort: { y: "x", reverse: true}, 
           fill: "ocupacion"},
@@ -56,7 +56,7 @@ d3.csv("astronautas.csv", d3.autoType).then(data => {
       Plot.text(  
         data.filter(d=>(d.nacionalidad=="U.S.S.R/Rusia" || d.nacionalidad=='EE.UU.' || d.nacionalidad=='China' || d.nacionalidad=='Japon' )&&d.ocupacion=='comandante'),       
         Plot.groupY(
-        {x: 'count', text:"count"},  
+        {x: 'count', text:"count"},  //
         {y: 'nacionalidad', dx:10},
         )),
     ],
@@ -68,6 +68,7 @@ d3.csv("astronautas.csv", d3.autoType).then(data => {
       label: null,
     },
     marginLeft: 140,
+   // marginRight: 150,
     color: {
       legend: true,
       range:["#fc4445"],
