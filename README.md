@@ -1,7 +1,7 @@
 <!-- # vd_s2_tp2_Oliva_Olivera -->
 
 # ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# TP2
+# :woman_astronaut: :astronaut: TP2 :astronaut: :woman_astronaut:
 Integrantes: Micaela Oliva y Carolina Olivera
 
 # Objetivo
@@ -14,7 +14,7 @@ Integrantes: Micaela Oliva y Carolina Olivera
 </tr>
 </table>
 
-## :waxing_gibbous_moon: Chart 01 - Rusia lidera la cantidad de comandantes
+## :waxing_gibbous_moon: Chart 01 - Rusia lidera la cantidad de comandantes 
 
 
 
