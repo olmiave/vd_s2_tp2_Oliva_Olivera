@@ -18,9 +18,8 @@ Integrantes: Micaela Oliva y Carolina Olivera
 Demo de la página :  https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/
 
 ## :waxing_gibbous_moon: Chart 01 - Rusia lidera la cantidad de comandantes 
-[Chart 01](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_1)
 
-
+[![Chart01](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/chart01.jpeg)](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_1)
 
 Este gráfico representa la ocupación de los astronautas de diferentes países en misiones espaciales y la cantidad de astronautas por cada ocupación. Se eligió un gráfico de barras debido a que es una de las formas más efectivas de visualizar datos cuantitativos, ya que permite comparar rápidamente las magnitudes de diferentes variables. 
 
@@ -33,7 +32,8 @@ En cuanto a las decisiones de diseño, se utiliza una disposición gráfica clar
 
 
 ## :waxing_gibbous_moon: Chart 02 - Build-an-astronaut
-[Chart 02](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_2)
+
+[![Chart02](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/chart02.jpeg)](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_2)
 
 El gráfico de barras utilizado en este caso es una herramienta útil para analizar los datos de los astronautas y determinar patrones en cuanto a edad, nacionalidad, género, estatus y ocupación. El uso de barras verticales en el gráfico es una excelente opción para comparar visualmente las diferentes categorías y sus valores.
 
@@ -44,7 +44,8 @@ En cuanto a las decisiones de diseño tomadas para la representación de los dat
 
 
 ## :waxing_gibbous_moon: Chart 03 - El espacio: ¿una brecha de género interplanetaria?
-[Chart 03](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_3)
+
+[![Chart03](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/chart03.jpeg)](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_3)
 
 El gráfico generado utiliza puntos para representar la brecha de género en el espacio. Este tipo de gráfico es especialmente útil para comparar las diferencias entre dos grupos, en este caso, muestra cada misión espacial en función del año en que se realizó y del género del astronauta que participó.
 
@@ -59,7 +60,8 @@ La elección de los puntos, los colores utilizados y los canales representativos
 
 
 ## :waxing_gibbous_moon: Chart 04 - ¿Quién lidera la carrera espacial del tiempo?
-[Chart 04](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_4)
+
+[![Chart04](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/chart04.jpeg)](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_4)
 
 El gráfico de área polar interactivo elegido tiene como objetivo representar visualmente las horas de misión acumuladas por cada país de origen de los astronautas. La decisión de utilizar un gráfico de área polar se justifica por su capacidad para mostrar la relación entre los valores de un conjunto de datos y su total, en este caso las horas de misión acumuladas por país. Además, al ser un gráfico interactivo, permite al usuario explorar los datos de manera más dinámica, ya sea resaltando una sección específica del gráfico o mostrando información detallada al hacer clic en una sección. También la interactividad permite al usuario pasar el cursor por encima de cada sección para ver la cantidad de horas de misión correspondientes.
 
