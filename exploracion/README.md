@@ -4,11 +4,15 @@ Integrantes: Micaela Oliva y Carolina Olivera
 
 # 1 - Marcas y Canales
 ### Primera instancia
-Para la primera instancia buscamos familiarizarnos con los datos, a través de una exploración mediantes marcas y canales 
+Para la primera instancia buscamos familiarizarnos con los datos, a través de una exploración mediante marcas y canales. Con la ayuda de Observable Plot buscamos hacer varios gráficos que exponen los datos de astronautas.csv. 
 
-## :waxing_gibbous_moon: Chart 01 - Rusia lidera la cantidad de comandantes
+### Chart 01
+[Usage](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/1-marcas_y_canales/chart_01)
+El Chart 01 es un gráfico de puntos (marca) compara el año de mision (canal) con la edad del astronauta cuando realizó la misión.
 
-
+### Chart 02
+[Usage](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/1-marcas_y_canales/chart_02)
+El Chart 02 es un gráfico de puntos (marca) muestra la cantidad de horas (canal) de cada ocupación.
 
 
 
