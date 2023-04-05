@@ -35,7 +35,7 @@ En cuanto a las decisiones de diseño, se utiliza una disposición gráfica clar
 
 [![Chart02](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/chart02.jpeg)](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_2)
 
-El gráfico de barras utilizado en este caso es una herramienta útil para analizar los datos de los astronautas y determinar patrones en cuanto a edad, nacionalidad, género, estatus y ocupación. El uso de barras verticales en el gráfico es una excelente opción para comparar visualmente las diferentes categorías y sus valores.
+El gráfico de barras utilizado en este caso es una herramienta útil para analizar los datos de los astronautas y determinar patrones en cuanto a edad, nacionalidad, género, estatus y ocupación. El uso de barras horizontales en el gráfico es una excelente opción para comparar visualmente las diferentes categorías y sus valores.
 
 Los colores utilizados en el gráfico son apropiados para representar los diferentes datos que se muestran. El color azul claro para la edad promedio indica una sensación de tranquilidad y serenidad que se relaciona con la idea de la edad. Mientras que el color rojo se eligió para resaltar la mayor proporción de cada una de las categorías (edad, nacionalidad, género, estatus y ocupación); estos colores fueron seleccionados cuidadosamente para representar la diversidad y la diferencia de cada uno de estos grupos. La paleta de colores utiliza tonos claros y brillantes que facilitan la distinción entre las diferentes categorías.
 
