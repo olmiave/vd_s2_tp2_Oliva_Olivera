@@ -1,5 +1,5 @@
 # ![Index](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/cosmos.jpg)
-# Exploración :astronaut:
+# Exploración :milky_way:
 
 ## 1 - Marcas y Canales
 ### Primera instancia
