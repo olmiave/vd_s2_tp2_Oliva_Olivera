@@ -20,6 +20,8 @@ Demo de la página :  https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/
 ## :waxing_gibbous_moon: Chart 01 - Rusia lidera la cantidad de comandantes 
 [Chart 01](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_1)
 
+
+
 Este gráfico representa la ocupación de los astronautas de diferentes países en misiones espaciales y la cantidad de astronautas por cada ocupación. Se eligió un gráfico de barras debido a que es una de las formas más efectivas de visualizar datos cuantitativos, ya que permite comparar rápidamente las magnitudes de diferentes variables. 
 
 Los colores utilizados en la representación de los datos fueron elegidos para diferenciar claramente las ocupaciones de los astronautas y hacer que la visualización sea fácil de leer. Cada color representa una ocupación diferente: rojo para los comandantes, azul para los especialistas aeroespaciales, celeste para los ingenieros, dorado para los participantes de vuelos y rosa para los pilotos.
