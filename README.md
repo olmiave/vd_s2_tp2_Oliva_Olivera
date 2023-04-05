@@ -4,7 +4,7 @@
 # :woman_astronaut: :man_astronaut: TP2 :man_astronaut: :woman_astronaut:
 Integrantes: Micaela Oliva y Carolina Olivera
 
-# Objetivo
+## Objetivo
 <table>
 <tr>
 <td>
@@ -14,10 +14,10 @@ Integrantes: Micaela Oliva y Carolina Olivera
 </tr>
 </table>
 
-# Demo
+## Demo
 Demo de la página :  https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/
 
-# :waxing_gibbous_moon: Chart 01 - Rusia lidera la cantidad de comandantes 
+## :waxing_gibbous_moon: Chart 01 - Rusia lidera la cantidad de comandantes 
 
 [![Chart01](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/chart01.jpeg)](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_1)
 
@@ -31,7 +31,7 @@ En la segunda parte del gráfico, se filtraron los datos para mostrar solo la oc
 En cuanto a las decisiones de diseño, se utiliza una disposición gráfica clara y sencilla, en la que se agrupan las barras por nacionalidad y se ordenan por cantidad de astronautas dependiendo de cada ocupación. Además, se utiliza un fondo transparente y se elige una fuente y tamaño de letra adecuados para facilitar la lectura del gráfico.
 
 
-# :waxing_gibbous_moon: Chart 02 - Build-an-astronaut
+## :waxing_gibbous_moon: Chart 02 - Build-an-astronaut
 
 [![Chart02](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/chart02.jpeg)](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_2)
 
@@ -43,7 +43,7 @@ En cuanto a las marcas y canales utilizados, se optó por barras horizontales qu
 En cuanto a las decisiones de diseño tomadas para la representación de los datos, se buscó una presentación clara y precisa de los datos utilizando una combinación de colores y gráficos para resaltar los patrones y tendencias. Se evitó el uso de colores fuertes o contrastantes que pudieran distraer del contenido y la información importante. Además, se utilizó una presentación sencilla y minimalista que facilita la interpretación y comprensión de los datos.
 
 
-# :waxing_gibbous_moon: Chart 03 - El espacio: ¿una brecha de género interplanetaria?
+## :waxing_gibbous_moon: Chart 03 - El espacio: ¿una brecha de género interplanetaria?
 
 [![Chart03](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/chart03.jpeg)](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_3)
 
@@ -59,7 +59,7 @@ La elección de los canales se debe a que la posición vertical es fácilmente i
 La elección de los puntos, los colores utilizados y los canales representativos son adecuados para la representación de los datos. Además, el uso de texto para mostrar la cantidad de astronautas en cada misión es una solución elegante para diferenciar entre los puntos.
 
 
-# :waxing_gibbous_moon: Chart 04 - ¿Quién lidera la carrera espacial del tiempo?
+## :waxing_gibbous_moon: Chart 04 - ¿Quién lidera la carrera espacial del tiempo?
 
 [![Chart04](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/chart04.jpeg)](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/dataviz_4)
 
