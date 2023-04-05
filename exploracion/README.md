@@ -44,12 +44,18 @@ Para la primera instancia buscamos familiarizarnos con los datos, a través de u
 ## 2 - Diseño y edición I
 ### Primera instancia
 De los nueve gráficos hechos, tuvimos que elegir cuatro, por lo cual nos quedamos con gráficos que proporcionaban datos significativos con comparaciones interesantes entre los valores. Asimismo, comenzamos a definir mejor los elementos textuales y colores para destacar datos.  
--[Chart 01](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/2-disenio_y_edicion_I/chart_01)
--[Chart 02](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/2-disenio_y_edicion_I/chart_02)
--[Chart 03](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/2-disenio_y_edicion_I/chart_03)
--[Chart 04](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/2-disenio_y_edicion_I/chart_04)
+- [Chart 01](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/2-disenio_y_edicion_I/chart_01)
+- [Chart 02](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/2-disenio_y_edicion_I/chart_02)
+- [Chart 03](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/2-disenio_y_edicion_I/chart_03)
+- [Chart 04](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/2-disenio_y_edicion_I/chart_04)
 
 ## 3, 4 y 5 - Maquetación web de la exploración y transformación de datos aplicando diseño y edición 
 ### Primera instancia
 Generamos visualizaciones nuevas por lo cual empezamos a incorporar funciones de transformación. Además, comenzamos a experimentar con marcas distintas, representando de ese modo atributos de datos distintos. Asimismo, para cada gráfico ajustamos el diseño mediante la definición del formato con mejoras en los elementos textuales, color y texto. Adicionalmente, agregamos leyendas necesarias para explicar la codificación de los colores, en casos necesarios.
 Por el otro lado, en los cuatro gráficos que decidimos ultilizar, modificamos los archivos HTML, tales que incluyan un título, bajada, fuente de datos y autores.
+- [Chart 01](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/3_4_5/chart_01)
+- [Chart 02](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/3_4_5/chart_02)
+- [Chart 03](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/3_4_5/chart_03)
+- [Chart 04](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/3_4_5/chart_04)
+- [Chart 05](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/3_4_5/chart_05)
+- [Chart 06](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/exploracion/3_4_5/chart_06)
