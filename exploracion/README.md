@@ -1,4 +1,4 @@
-# ![Index](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/cosmos.jpg)
+# ![Index](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/nasa.jpg)
 # Exploración :milky_way:
 
 ## 1 - Marcas y Canales
