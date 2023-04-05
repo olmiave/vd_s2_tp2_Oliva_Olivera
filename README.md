@@ -75,6 +75,9 @@ Con respecto a las decisiones de diseño tomadas para la representación de los 
 
 [Micaela Oliva](https://github.com/olmiave) | [Carolina Olivera](https://github.com/Carol1n4)
 
+## [License](https://github.com/olmiave/vd_s2_tp2_Oliva_Olivera/blob/main/LICENSE)
+
+MIT © [olmiave](https://github.com/olmiave)
 
 
 
