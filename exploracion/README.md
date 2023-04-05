@@ -1,5 +1,5 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# Exploración
+# ![Index](https://olmiave.github.io/vd_s2_tp2_Oliva_Olivera/imagenes/cosmos.jpg)
+# Exploración :astronaut:
 
 ## 1 - Marcas y Canales
 ### Primera instancia
